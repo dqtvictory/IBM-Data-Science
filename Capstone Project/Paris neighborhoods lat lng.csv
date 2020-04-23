@@ -1,0 +1,81 @@
+District,Neighborhood,Population,Latitude,Longitude
+Paris 1er Arrondissement,Saint-Germain l'Auxerrois,1401,48.86156159999999,2.3337187
+Paris 1er Arrondissement,Les Halles,8869,48.8623348,2.3447356
+Paris 1er Arrondissement,Palais Royal,3239,48.865221,2.3353643
+Paris 1er Arrondissement,Place Vendome,2742,48.8674469,2.3294342
+Paris 2e Arrondissement,Gaillon,1456,48.86966229999999,2.3336218
+Paris 2e Arrondissement,Vivienne,3046,48.8701914,2.3385845
+Paris 2e Arrondissement,Mail,6383,48.8675641,2.34399
+Paris 2e Arrondissement,Bonne Nouvelle,9375,48.8674501,2.3496033
+Paris 3e Arrondissement,Arts et Metiers,9722,48.8666646,2.3572703
+Paris 3e Arrondissement,Enfants Rouges,8996,48.8645161,2.3634163
+Paris 3e Arrondissement,Les Archives,8175,48.85921829999999,2.3621286
+Paris 3e Arrondissement,Sainte-Avoye,7895,48.8629517,2.3541504
+Paris 4e Arrondissement,Saint-Merri,6074,48.8573399,2.3515768
+Paris 4e Arrondissement,Saint-Gervais,9668,48.8559523,2.3579826
+Paris 4e Arrondissement,Arsenal,8718,48.8520593,2.3654105
+Paris 4e Arrondissement,Notre Dame,3028,48.85380079999999,2.3427721
+Paris 5e Arrondissement,Saint-Victor,11673,48.8474198,2.3528452
+Paris 5e Arrondissement,Jardin des Plantes,17886,48.8439621,2.3595996
+Paris 5e Arrondissement,Val de Grace,19668,48.8412936,2.3389777
+Paris 5e Arrondissement,Sorbonne,9811,48.8495925,2.3448768
+Paris 6e Arrondissement,Monnaie,5478,48.8544122,2.3407963
+Paris 6e Arrondissement,Odeon,7939,48.84985959999999,2.3386921
+Paris 6e Arrondissement,Notre Dame des Champs,22919,48.8477427,2.328309
+Paris 6e Arrondissement,Saint-Germain des Pres,4581,48.8537981,2.3333285
+Paris 7e Arrondissement,Saint-Thomas d'Aquin,11026,48.8553378,2.3261233
+Paris 7e Arrondissement,Invalides,5514,48.8593608,2.3138127
+Paris 7e Arrondissement,Ecole Militaire,11810,48.85240049999999,2.3036513
+Paris 7e Arrondissement,Gros Caillou,24162,48.8583002,2.3038975
+Paris 8e Arrondissement,Champs Elysees,2776,48.8662294,2.3077957
+Paris 8e Arrondissement,Faubourg du Roule,9305,48.8746664,2.3038222
+Paris 8e Arrondissement,Madeleine,5746,48.8700435,2.3245502
+Paris 8e Arrondissement,Europe,18610,48.8766796,2.3189725
+Paris 9e Arrondissement,Saint-Georges,21342,48.88036049999999,2.333799
+Paris 9e Arrondissement,Chaussee d'Antin,4810,48.8728752,2.3303724
+Paris 9e Arrondissement,Faubourg Montmartre,11254,48.8740367,2.3422107
+Paris 9e Arrondissement,Rochechouart,22223,48.8801332,2.3450287
+Paris 10e Arrondissement,Saint-Vincent de Paul,23547,48.8786772,2.3518467
+Paris 10e Arrondissement,Porte Saint-Denis,16254,48.87242029999999,2.352827
+Paris 10e Arrondissement,Porte Saint-Martin,23071,48.8722485,2.36125
+Paris 10e Arrondissement,Hopital Saint-Louis,29060,48.8771612,2.3672856
+Paris 11e Arrondissement,Folie Mericourt,31376,48.8669914,2.3720624
+Paris 11e Arrondissement,Saint-Ambroise,32085,48.8618494,2.3772575
+Paris 11e Arrondissement,Roquette,46429,48.8578217,2.3801945
+Paris 11e Arrondissement,Sainte-Marguerite,37128,48.8527353,2.3919611
+Paris 12e Arrondissement,Bel Air,35763,48.8418326,2.4053177
+Paris 12e Arrondissement,Picpus,64043,48.8395771,2.3958217
+Paris 12e Arrondissement,Bercy,14307,48.835455,2.3856832
+Paris 12e Arrondissement,Quinze Vingts,26135,48.84866359999999,2.372581
+Paris 13e Arrondissement,Salpetriere,18424,48.8366508,2.3593244
+Paris 13e Arrondissement,Gare,75133,48.8277043,2.371360300000001
+Paris 13e Arrondissement,Maison Blanche,67202,48.8258056,2.3503958
+Paris 13e Arrondissement,Croulebarbe,20793,48.8347839,2.3468998
+Paris 14e Arrondissement,Montparnasse,18711,48.83933039999999,2.330491
+Paris 14e Arrondissement,Parc de Montsouris,21256,48.82490689999999,2.3376619
+Paris 14e Arrondissement,Petit Montrouge,37858,48.8288725,2.3281645
+Paris 14e Arrondissement,Plaisance,59279,48.8305801,2.3192651
+Paris 15e Arrondissement,Saint-Lambert,86656,48.8344576,2.3005597
+Paris 15e Arrondissement,Necker,47396,48.8429684,2.3125584
+Paris 15e Arrondissement,Grenelle,48020,48.85076309999999,2.2924954
+Paris 15e Arrondissement,Javel,51253,48.83687519999999,2.278651
+Paris 16e Arrondissement,Auteuil,71581,48.8490552,2.2663003
+Paris 16e Arrondissement,Muette,46561,48.8582482,2.2747904
+Paris 16e Arrondissement,Porte Dauphine,26067,48.871703,2.2757204
+Paris 16e Arrondissement,Chaillot,20881,48.86893250000001,2.2915587
+Paris 17e Arrondissement,Ternes,38576,48.8799177,2.2930101
+Paris 17e Arrondissement,Plaine Monceau,41918,48.8843276,2.3026807
+Paris 17e Arrondissement,Batignolles,42302,48.887341,2.3139467
+Paris 17e Arrondissement,Epinettes,45039,48.89315879999999,2.3236013
+Paris 18e Arrondissement,Grandes Carrieres,71028,48.8904745,2.3318185
+Paris 18e Arrondissement,Clignancourt,68873,48.8883812,2.348059
+Paris 18e Arrondissement,Goutte d'Or,30309,48.8887332,2.3555872
+Paris 18e Arrondissement,Chapelle,24849,48.8932384,2.3634289
+Paris 19e Arrondissement,Villette,55348,48.8906167,2.3767267
+Paris 19e Arrondissement,Pont de Flandre,31753,48.8959365,2.3835907
+Paris 19e Arrondissement,Amerique,57924,48.8820311,2.3930716
+Paris 19e Arrondissement,Combat,41369,48.87891639999999,2.3783978
+Paris 20e Arrondissement,Belleville,35605,48.8728179,2.389461
+Paris 20e Arrondissement,Saint-Fargeau,46320,48.87137999999999,2.4033854
+Paris 20e Arrondissement,Pere Lachaise,46284,48.8649156,2.3984761
+Paris 20e Arrondissement,Charonne,67395,48.8527163,2.4061036
